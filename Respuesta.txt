@@ -1,0 +1,3 @@
+El problema es que cada resultado es distinto al anterior lo cual parece un juego de azar
+A este problema se le llama Race Condition, esto provoca que cada vez que ejecutemos el programa, presente resultados diferentes y azarosos, la suerte no debe ser una variable a tomar en cuenta en un programa al menos que nosotros lo decidamos asi
+El metodo para corregir este problema es a partir de los Busy Waiting
